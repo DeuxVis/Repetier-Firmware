@@ -1,3 +1,5 @@
+# Repetier-Firmware with configuration for the PinkLady - Prusa i3 Steel from the first [https://www.logre.eu/wiki/Logresse](Logresse) batch, running a Sanguinololu board.
+
 # Repetier-Firmware - the fast and user friendly firmware
 
 ## Installation
